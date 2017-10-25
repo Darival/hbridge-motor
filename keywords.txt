@@ -1,0 +1,7 @@
+Motor	KEYWORD1
+brake	KEYWORD2
+fordward	KEYWORD2
+backward	KEYWORD2
+isMoving	KEYWORD2
+isMovingFordward	KEYWORD2
+isMovingBackward	KEYWORD2
