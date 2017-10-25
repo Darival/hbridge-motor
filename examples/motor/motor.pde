@@ -1,6 +1,6 @@
 #include <Motor.h>
 
-Motor motor(6,13);
+Motor motor(6,7);
 
 void setup() {
 }
